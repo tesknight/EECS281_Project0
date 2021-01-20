@@ -1,0 +1,4 @@
+We haven't included the Makefile here, so that we can keep it current
+on the gitlab server.  Please download it from:
+
+https://gitlab.umich.edu/eecs281/Makefile.git
